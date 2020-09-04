@@ -1,3 +1,4 @@
+#通过vpn方式，拦截dns请求，对比host文件返回ip地址，请使用android编译成apk使用
 ## Virtual Hosts
 hosts for android,implement by vpn mode,supports wildcard DNS records
 
